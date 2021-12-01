@@ -5,4 +5,4 @@
 | 1   | Sonar Sweep                        | 77th   | 			60 				|1748th  | 			 494             |     24      | 		  0.3		   |
 | 2   | XXX                      		   | XXXX   | 			XX 				|XXXXth  | 			 XXX             |     XX      | 		  XX		   |
 
-__Current score:__ 0 points
+__Current score:__ 24 points
