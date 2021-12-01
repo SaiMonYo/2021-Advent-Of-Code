@@ -16,6 +16,7 @@ def part2(data):
             c += 1
         old = sum(data[i-2:i+1])
     # minus 1 for the first window as it is always > 0
+    # and we dont count the first window
     # this cost me leaderboard position on part 2
     return c - 1
 
