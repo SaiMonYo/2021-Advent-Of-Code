@@ -7,5 +7,6 @@
 | 3   |Binary Diagnostic                   | 1221st   | 			6:42 				|1265th  | 			 22:27            |     0      | 		  ??		   |
 | 4   |Giant Squid                         | 1658th   | 			23:09 				|1136th  | 			 26:05            |     0      | 		  ??		   |
 | 5   |Hydrothermal Venture                         | 4153rd   | 			30:14				|2095th  | 			 30:36            |     0      | 		  ??		   |
+| 6   |Lanternfish                       | 1140th   | 			6:13				|2057th  | 			 20:23            |     0      | 		  ??		   |
 
 __Current score:__ 24 points
