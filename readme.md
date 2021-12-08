@@ -1,6 +1,5 @@
 ## Tasks
 
-|   part1 | part2 |
 | Day | Name                               | Part 1 | Part 1 time to finish  | Part 2 | Part 2 time to finish | Points      | Combined runtime (ms) |
 | --- | :--------------------------------- |:------ |:------------------------- |:------ | :------------------------ | :-----------| :---------------------|
 | 1   | Sonar Sweep                        | 77th   | 			1:00 				|1748th  | 			 8:14             |     24      | 		  0.3		   |
