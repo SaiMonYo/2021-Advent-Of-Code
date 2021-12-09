@@ -10,5 +10,6 @@
 | 6   |Lanternfish                       | 1140th   | 			6:13				|2057th  | 			 20:23            |     0      | 		  10.6		   |
 | 7   |The Treachery of Whales           | 14772nd   | 			1:28:47				|13384th  | 			 1:31:21           |     0      | 		  ??		   |
 | 8   |Seven Segment Search              | 1373rd   | 			8:41				|**765th**  | 			 37:57            |     0      | 		  ??		   |
+| 9   |Smoke Basin                       | 1662nd   | 			10:02				|**250th**  | 			 14:09            |     0      | 		  ??		   |
 
 __Current score:__ 24 points
