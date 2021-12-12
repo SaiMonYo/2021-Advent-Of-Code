@@ -12,5 +12,7 @@
 | 8   |Seven Segment Search              | 1373rd   | 			8:41				|**765th**  | 			 37:57            |     0      | 		  ??		   |
 | 9   |Smoke Basin                       | 1662nd   | 			10:02				|**250th**  | 			 14:09            |     0      | 		  ??		   |
 | 10  |Syntax Scoring                      | 2886th   | 			14:16				|1318th  | 			 17:30           |     0      | 		  ??		   |
+| 11  |Dumbo Octopus                       | 363rd    | 			12:02				|377th  | 			 14:27           |     0      | 		  ??		   |
+| 12  |Passage Pathing                     | 1022nd   | 			16:12				|542nd  | 			 21:05           |     0      | 		  ??		   |
 
 __Current score:__ 24 points
