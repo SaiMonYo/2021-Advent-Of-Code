@@ -8,6 +8,9 @@ def fold(board, l, i):
                     # working out new index and removing old
                     board[y][i-(x-i)] = 1
                     board[y][x] = 0
+        # removing past the fold line
+        for j in range(len(board)):
+            del board[j][i:]
     else:
         for y in range(i, len(board)):
             for x in range(0, len(board[0])):
@@ -15,6 +18,8 @@ def fold(board, l, i):
                     # working out new index and removing old
                     board[i-(y-i)][x] = 1
                     board[y][x] = 0
+        # removing past fold line
+        del board[i:]
 
 
 def part1(data):
@@ -42,6 +47,7 @@ def part1(data):
     part2(board, folds)
     return c
 
+
 def part2(board, folds):
     # already done first fold
     for f in folds[1:]:
@@ -51,8 +57,8 @@ def part2(board, folds):
         fold(board, l, i)
     # output
     print("Part 2 solution: ")
-    for j in range(8):
-        print(''.join("#" if c else " " for c in board[j][:50]))
+    for j in range(len(board)):
+        print(''.join("#" if c else " " for c in board[j][:len(board[j])]))
 
 
 with open("Day13.txt") as file:
