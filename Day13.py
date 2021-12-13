@@ -1,3 +1,5 @@
+import sys
+
 def fold(board, l, i):
     # line x=?
     if l == "x":
@@ -57,8 +59,9 @@ def part2(board, folds):
         fold(board, l, i)
     # output
     print("Part 2 solution: ")
-    for j in range(len(board)):
-        print(''.join("#" if c else " " for c in board[j][:len(board[j])]))
+    f = "\n".join("".join("██" if x else "  " for x in r) for r in board)
+    sys.stdout.buffer.write(f.encode("utf-8"))
+    print()
 
 
 with open("Day13.txt") as file:
