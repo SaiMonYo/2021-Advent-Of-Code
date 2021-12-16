@@ -12,7 +12,11 @@
 | 8   |Seven Segment Search              | 1373rd   | 			8:41				|**765th**  | 			 37:57            |     0      | 		  ??		   |
 | 9   |Smoke Basin                       | 1662nd   | 			10:02				|**250th**  | 			 14:09            |     0      | 		  ??		   |
 | 10  |Syntax Scoring                      | 2886th   | 			14:16				|1318th  | 			 17:30           |     0      | 		  ??		   |
-| 11  |Dumbo Octopus                       | 363rd    | 			12:02				|377th  | 			 14:27           |     0      | 		  ??		   |
-| 12  |Passage Pathing                     | 1022nd   | 			16:12				|542nd  | 			 21:05           |     0      | 		  ??		   |
+| 11  |Dumbo Octopus                       | **363rd**    | 			12:02				|**377th**  | 			 14:27           |     0      | 		  ??		   |
+| 12  |Passage Pathing                     | 1022nd   | 			16:12				|**542nd**  | 			 21:05           |     0      | 		  ??		   |
+| 13  |Transparent Origami                 | 1100th   | 			15:23				|**804th**  | 			 19:17           |     0      | 		  ??		   |
+| 14  |Extended Polymerization             | 2681st   | 			17:33				|**272nd**  | 			 18:27           |     0      | 		  ??		   |
+| 15  |Chiton                              | 1518th   | 			25:15				|**631st**  | 			 30:31           |     0      | 		  ??		   |
+| 16  |Packet Decoder                      | **356th**   | 			30:39				|**566th**  | 			 44:20           |     0      | 		  ??		   |
 
 __Current score:__ 24 points
