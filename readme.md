@@ -18,10 +18,10 @@
 | 14  |Extended Polymerization             | 2681st   | 			17:33				|**272nd**  | 			 18:27           |     0      | 		  ??		   |
 | 15  |Chiton                              | 1518th   | 			25:15				|**631st**  | 			 30:31           |     0      | 		  ??		   |
 | 16  |Packet Decoder                      | **356th**   | 			30:39				|**566th**  | 			 44:20           |     0      | 		  ??		   |
-| 17  |Packet Decoder                      | **697th**   | 			17:21				|**706th**  | 			 24:40           |     0      | 		  ??		   |
-| 18  |Packet Decoder                      | 1412th   | 			1:51:42				|3865th  | 			 5:26:09           |     0      | 		  ??		   |
-| 19  |Packet Decoder                      | **363th**   | 			1:21:07				|**340**  | 			 1:27:13           |     0      | 		  ??		   |
-| 20  |Packet Decoder                      | **704th**   | 			31:02				|**630th**  | 			 33:42           |     0      | 		  ??		   |
+| 17  |Trick Shot                      | **697th**   | 			17:21				|**706th**  | 			 24:40           |     0      | 		  ??		   |
+| 18  |Snailfish                      | 1412th   | 			1:51:42				|3865th  | 			 5:26:09           |     0      | 		  ??		   |
+| 19  |Beacon Scanner                      | **363th**   | 			1:21:07				|**340th**  | 			 1:27:13           |     0      | 		  ??		   |
+| 20  |Trench Map                      | **704th**   | 			31:02				|**630th**  | 			 33:42           |     0      | 		  ??		   |
 
 
 __Current score:__ 24 points
