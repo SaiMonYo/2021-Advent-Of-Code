@@ -3,7 +3,7 @@
 | Day | Name                               | Part 1 | Part 1 time to finish  | Part 2 | Part 2 time to finish | Points      | Combined runtime (ms) |
 | --- | :--------------------------------- |:------ |:------------------------- |:------ | :------------------------ | :-----------| :---------------------|
 | 1   | Sonar Sweep                        | **77th**   | 			1:00 				|1748th  | 			 8:14             |     24      | 		  0.3		   |
-| 2   | Dive!                       		   | 1286th   | 			3:17 				|1601th  | 			 6:09             |     0      | 		  0.1		   |
+| 2   | Dive!                       		   | 1286th   | 			3:17 				|1601st  | 			 6:09             |     0      | 		  0.1		   |
 | 3   |Binary Diagnostic                   | 1221st   | 			6:42 				|1265th  | 			 22:27            |     0      | 		  ??		   |
 | 4   |Giant Squid                         | 1658th   | 			23:09 				|1136th  | 			 26:05            |     0      | 		  ??		   |
 | 5   |Hydrothermal Venture              | 4153rd   | 			30:14				|2095th  | 			 30:36            |     0      | 		  26		   |
@@ -18,5 +18,10 @@
 | 14  |Extended Polymerization             | 2681st   | 			17:33				|**272nd**  | 			 18:27           |     0      | 		  ??		   |
 | 15  |Chiton                              | 1518th   | 			25:15				|**631st**  | 			 30:31           |     0      | 		  ??		   |
 | 16  |Packet Decoder                      | **356th**   | 			30:39				|**566th**  | 			 44:20           |     0      | 		  ??		   |
+| 17  |Packet Decoder                      | **697th**   | 			17:21				|**706th**  | 			 24:40           |     0      | 		  ??		   |
+| 18  |Packet Decoder                      | 1412th   | 			1:51:42				|3865th  | 			 5:26:09           |     0      | 		  ??		   |
+| 19  |Packet Decoder                      | **363th**   | 			1:21:07				|**340**  | 			 1:27:13           |     0      | 		  ??		   |
+| 20  |Packet Decoder                      | **704th**   | 			31:02				|**630th**  | 			 33:42           |     0      | 		  ??		   |
+
 
 __Current score:__ 24 points
