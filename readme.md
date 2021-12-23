@@ -27,4 +27,4 @@
 | 22  |Reactor                      | ***80th***  | 			12:15			|**203rd**  | 			 1:22:42           |     21      | 		  ??		   |
 
 
-__Current score:__ 24 points
+__Current score:__ 45 points
