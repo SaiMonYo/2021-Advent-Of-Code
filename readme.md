@@ -1,3 +1,9 @@
+# Advent Of Code 2021
+
+__Final score:__ 45 points <br>
+__Final Global Position:__ 667th
+
+
 ## Tasks
 
 | Day | Name                               | Part 1 | Part 1 time to finish  | Part 2 | Part 2 time to finish | Points      | Combined runtime (ms) |
@@ -27,7 +33,3 @@
 | 23  |Amphipod                      | ***80th***  | 			12:15			|**203rd**  | 			 1:22:42           |     21      | 		  ??		   |
 | 24  |Arithmetic Logic Unit                      | **169th**  | 			1:24:11			|**181st**  | 			 01:27:50           |     0      | 		  20		   |
 | 25  |Sea Cucumber                      | **514th**  | 			15:45			|**428th**  | 			 15:52          |     0      | 		  ??		   |
-
-
-**Final score:** 45 points <br>
-__Final Global Position:__ 667th
