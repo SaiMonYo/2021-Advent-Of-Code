@@ -29,5 +29,5 @@
 | 25  |Sea Cucumber                      | **514th**  | 			15:45			|**428th**  | 			 15:52          |     0      | 		  ??		   |
 
 
-**Final score:** 45 points
+**Final score:** 45 points <br>
 __Final Global Position:__ 667th
